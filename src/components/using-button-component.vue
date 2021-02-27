@@ -1,4 +1,5 @@
 <template>
+  <h3>Custom components</h3>
   <div class="w">
     <input
       v-model="color"
